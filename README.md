@@ -1,16 +1,17 @@
-# nosso_primeiro_projeto
+# Teste no Flutter
 
-A new Flutter project.
+Testes e gerenciamento de estados em um app feito no Flutter.
 
-## Getting Started
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Testes e gerenciamento de estados no Flutter**
+| :label: Tecnologias | dart, flutter
+| :rocket: URL         | [https://github.com/arthur0617/flutter-test](https://github.com/arthur0617/app-tarefas-flutter)
+| :fire: Desafio     | 
 
-This project is a starting point for a Flutter application.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/arthur0617/app-tarefas-flutter/blob/master/Captura%20de%20tela%202023-12-30%20224743.png?raw=true#vitrinedev)
 
-A few resources to get you started if this is your first Flutter project:
+## Detalhes do projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto desenvolvido durante a formação de Testes e gerenciamento de estados no Flutter da Alura.
